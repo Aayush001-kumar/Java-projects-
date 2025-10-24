@@ -1,4 +1,4 @@
-# 💳 Simple ATM Simulation in Java
+# Simple ATM Simulation in Java
 
 This project is a **console-based ATM simulator** written in Java. It allows users to perform basic banking operations such as checking balance, depositing funds, withdrawing funds, and verifying PIN-based access.
 
@@ -16,11 +16,11 @@ This project is a **console-based ATM simulator** written in Java. It allows use
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 1. **User sets up a 4-digit PIN** and **initial account balance**
 2. PIN verification is required to proceed
-3. Main menu offers four options:
+3. The main menu offers four options:
     - `1` → Check Balance
     - `2` → Deposit Amount
     - `3` → Withdraw Amount
@@ -29,3 +29,4 @@ This project is a **console-based ATM simulator** written in Java. It allows use
 
 ---
 ...GUI version using Swing or JavaFX
+
